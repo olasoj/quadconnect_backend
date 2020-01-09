@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "quadConnect_jwtPrivateKey",
+  "mongoURI": "quadConnect_db"
+}
